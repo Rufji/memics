@@ -1,7 +1,7 @@
 
-  # Make Responsive Components
+  # Mememics
 
-  This is a code bundle for Make Responsive Components. The original project is available at https://www.figma.com/design/7nOG3Jcaezjk7Qzy70d4ID/Make-Responsive-Components.
+  Memes stories told in comics
 
   ## Running the code
 
