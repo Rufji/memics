@@ -10,9 +10,9 @@ export function Hero({ darkMode }: HeroProps) {
           className="text-3xl md:text-4xl lg:text-5xl text-center"
           style={{ color: darkMode ? 'white' : '#1a1a1a' }}
         >
-          Crypto Stories,
+          Meme Stories,
           <br />
-          Told in Mememics.
+          Told in Comics.
         </h1>
         <p 
           className="font-['Poppins:Regular',sans-serif] text-sm md:text-base text-center max-w-2xl"
