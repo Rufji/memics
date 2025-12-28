@@ -16,7 +16,7 @@ export function Footer({ darkMode }: FooterProps) {
               className="text-4xl md:text-5xl"
               style={{ color: darkMode ? 'white' : '#1a1a1a' }}
             >
-              CRYPTO MEMICS
+              CRYPTO MEMEMICS
             </h2>
             <div className="flex flex-col gap-2">
               <p 

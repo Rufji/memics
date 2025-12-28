@@ -11,7 +11,7 @@ export function Categories({ darkMode }: CategoriesProps) {
         <h2 
           style={{ color: darkMode ? 'white' : '#1a1a1a' }}
         >
-          Mememics
+          Categories
         </h2>
         
         <div className="relative inline-block max-w-[389px]">
