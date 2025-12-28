@@ -15,6 +15,12 @@ import comicPage12 from "../assets/12.png";
 import comicPage13 from "../assets/13.png";
 import comicPage14 from "../assets/14.png";
 import comicPage15 from "../assets/15.png";
+import comicPage16 from "../assets/16.png";
+import comicPage17 from "../assets/17.png";
+import comicPage18 from "../assets/18.png";
+import comicPage19 from "../assets/19.png";
+import comicPage20 from "../assets/20.png";
+import comicPage21 from "../assets/21.png";
 
 
 interface ComicReaderProps {
@@ -42,7 +48,14 @@ export function ComicReader({ darkMode, onClose }: ComicReaderProps) {
     comicPage12,
     comicPage13,
     comicPage14,
-    comicPage15
+    comicPage15,
+    comicPage16,
+    comicPage17,
+    comicPage18,
+    comicPage19,
+    comicPage20,
+    comicPage21,
+    
   ];
 
   const totalPages = pages.length;
