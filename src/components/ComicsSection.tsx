@@ -59,7 +59,7 @@ export function ComicsSection({ darkMode }: ComicsSectionProps) {
             className="font-['Poppins:Bold',sans-serif] text-center"
             style={{ color: darkMode ? 'white' : '#1a1a1a' }}
           >
-            View Latest Mememics
+            View Latest Comics
           </div>
         </div>
 
